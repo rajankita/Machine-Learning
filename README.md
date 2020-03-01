@@ -1,5 +1,7 @@
 # Machine-Learning
-Contents:
+Implementation of popular machine learning algorithms. 
+
+## Contents:
 1. Linear regression
 2. Locally weighted linear regression
 3. Logistic regression
